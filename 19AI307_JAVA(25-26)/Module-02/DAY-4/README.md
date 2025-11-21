@@ -3,13 +3,11 @@
 ## QUESTION:
 Write a program to access a static variable using both class name and object.
 
-**Input:** 48
 
-**Result:**
+| Input | Result |
+|-------|--------|
+| 48 | Accessing using class name: 48<br>Accessing using object: 48 |
 
-Accessing using class name: 48
-
-Accessing using object: 48
 
 ## AIM:
 To write a Java program that demonstrates variable scope by accessing a static variable using both class name and object reference.
@@ -54,5 +52,6 @@ public class prog {
 
 ## RESULT:
 The program to demonstrate variable scope and access a static variable using both class name and object was successfully executed.
+
 
 
