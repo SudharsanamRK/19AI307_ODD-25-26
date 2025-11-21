@@ -4,11 +4,12 @@
 
 Write a Java program to find the longest word in a given sentence.
 
-**Example Input:**
-Apple Orange
+For example:
 
-**Result:**
-The longest word is: Orange
+| Input | Result |
+|-------|--------|
+| Apple Orange | The longest word is: Orange |
+
 
 ## AIM:
 To write a Java program that reads a sentence and finds the longest word using string operations.
@@ -59,3 +60,4 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to find the longest word in a sentence was executed successfully.
+
