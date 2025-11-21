@@ -4,9 +4,10 @@
 
 Write a Java program to print the Fibonacci series using a for loop. The series starts with 0 and 1, and the next number is the sum of the previous two.
 
-**Input:** 1
 
-**Result:** Fibonacci Series: 0 1
+| Input | Result |
+|-------|--------|
+| 1 | Fibonacci Series: 0 1 |
 
 ## AIM:
 
@@ -65,5 +66,6 @@ public class Main {
 
 ## RESULT:
 Thus, the Java program to print the Fibonacci series using a for loop was executed successfully.
+
 
 
