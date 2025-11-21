@@ -17,13 +17,11 @@ Hello, [name]
 For example:
 
 Input	: Ajeesh 
+
 Result : Hello, Ajeesh
 
-
 ## AIM:
-
 Write a java program to get name from the user (String) and print it.
-
 
 ## ALGORITHM :
 ```
@@ -35,8 +33,6 @@ Write a java program to get name from the user (String) and print it.
 6.Display the message: "Hello, " + name
 ```
 
-
-
 ## PROGRAM:
 ```txt
 Program to implement variables and Operators using Java
@@ -44,6 +40,7 @@ Developed by: Sudharsanam R K
 RegisterNumber:  212222040163
 ```
 
+## SOURCE CODE
 ```java
 import java.util.*;
 public class prog{
@@ -58,9 +55,8 @@ public class prog{
 ## OUTPUT:
 <img width="669" height="242" alt="Screenshot 2025-11-19 104928" src="https://github.com/user-attachments/assets/fec616b3-c127-4715-a786-c3fc853b67b2" />
 
-
 ## RESULT:
-
 Thus, the java program to get name from the user (String) and print it is executed successfully.
+
 
 
