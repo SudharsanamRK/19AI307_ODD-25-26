@@ -6,32 +6,28 @@ A shop keeper would like to welcome their customers with their name.
 
 Write a java program to get name from the user (String) and print it.
 
-Input Format:
+**Input Format:**
 
 A single line string input.
 
-Output Format:
+**Output Format:**
 
 Hello, [name]
 
-For example:
+**Example Input:** Ajeesh 
 
-Input	: Ajeesh 
-
-Result : Hello, Ajeesh
+**Result :** Hello, Ajeesh
 
 ## AIM:
-Write a java program to get name from the user (String) and print it.
+To write a Java program that gets the user's name as input (String) and prints a welcome message.
 
 ## ALGORITHM :
-```
-1.Start the program.
-2.Import the necessary package 'java.util'
-3.Create a Scanner object to read input from the user.
-4.Read a string input (the user's name).
-5.Store the input in the variable name.
-6.Display the message: "Hello, " + name
-```
+1. Start the program.
+2. Import the necessary package 'java.util'
+3. Create a Scanner object to read input from the user.
+4. Read a string input (the user's name).
+5. Store the input in the variable name.
+6. Display the message: "Hello, " + name
 
 ## PROGRAM:
 ```txt
@@ -53,10 +49,7 @@ public class prog{
 ```
 
 ## OUTPUT:
-<img width="669" height="242" alt="Screenshot 2025-11-19 104928" src="https://github.com/user-attachments/assets/fec616b3-c127-4715-a786-c3fc853b67b2" />
+<img width="557" height="200" alt="image" src="https://github.com/user-attachments/assets/98db669e-de66-4c23-b76d-49b6a9a6754f" />
 
 ## RESULT:
 Thus, the java program to get name from the user (String) and print it is executed successfully.
-
-
-
