@@ -14,6 +14,7 @@ Write a java program to get the user input for temperature and display appropria
 For example:
 
 Input	: -5
+
 Result : Hibernating
 
 
@@ -34,13 +35,13 @@ To write a java program to get the user input for temperature and display approp
 
 
 ## PROGRAM:
- ```
+```txt
 Program to implement a conditional statement using Java
 Developed by: Sudharsanam R K
 RegisterNumber:  212222040163
 ```
-
-```
+## SOURCE CODE:
+```java
 import java.util.*;
 public class Main{
     public static void main(String[] args){
@@ -68,3 +69,4 @@ public class Main{
 
 ## RESULT:
 Thus, a java program to get the user input for temperature and display appropriate output is executed successfully.
+
