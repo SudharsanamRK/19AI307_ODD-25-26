@@ -11,11 +11,9 @@ If temp > 35, it gets angry.
 
 Write a java program to get the user input for temperature and display appropriate output.
 
-For example:
+**Example Input:** -5
 
-Input	: -5
-
-Result : Hibernating
+**Result :** Hibernating
 
 
 ## AIM:
@@ -38,7 +36,7 @@ To write a java program to get the user input for temperature and display approp
 ```txt
 Program to implement a conditional statement using Java
 Developed by: Sudharsanam R K
-RegisterNumber:  212222040163
+RegisterNumber: 212222040163
 ```
 ## SOURCE CODE:
 ```java
@@ -69,4 +67,5 @@ public class Main{
 
 ## RESULT:
 Thus, a java program to get the user input for temperature and display appropriate output is executed successfully.
+
 
