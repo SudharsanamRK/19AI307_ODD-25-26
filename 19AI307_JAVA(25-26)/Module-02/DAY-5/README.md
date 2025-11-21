@@ -3,17 +3,10 @@
 ## QUESTION:
 Create a class Calculator with: One non-static method add(int a, int b) that returns the sum, One static method info() that says "Calculator is ready".
 
-**Input:**
+| Input      | Result                     |
+|------------|-----------------------------|
+| 10<br>20   | Calculator is ready<br>Sum: 30 |
 
-10
-
-20
-
-**Result:**
-
-Calculator is ready
-
-Sum: 30
 
 ## AIM:
 To implement access modifiers in Java using both static and non-static methods within a class.
@@ -71,5 +64,6 @@ class prog {
 
 ## RESULT:
 The program successfully implemented access modifiers using static and non-static methods in Java.
+
 
 
